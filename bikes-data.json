@@ -1,0 +1,40 @@
+[
+    {
+        "model": "Galaxy Rider",
+        "type": "Mountain",
+        "features": {
+            "frame": "Aluminium alloy",
+            "gears": "21-speed Shimano",
+            "brakes": "Hydralic disc",
+            "suspension": "Full, adjustable",
+            "color": "Matte Black with green accents"
+        },
+        "usps": [
+            "Lightweight frame",
+            "quick gear shift",
+            "Durable tyres"
+        ],
+        "price": 999.95,
+        "weight": "15.3 kg",
+        "manufacturer_location": "Taiwan"
+    },
+    {
+        "model": "Nabula Navigator",
+        "type": "Hybrid",
+        "features": {
+            "frame": "Carbon Fiber",
+            "gears": "18-speed Nexus",
+            "brakes": "Mechanical disc",
+            "suspension": "Front only",
+            "color": "Glossy white"
+        },
+        "usps": [
+            "Sleek design",
+            "efficient on both roads and trials",
+            "Ultra-lightweight"
+        ],
+        "price": 649.95,
+        "weight": "15.3 kg",
+        "manufacturer_location": "German"
+    }
+]
